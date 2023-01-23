@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\bin\Debug\net7.0\Example 5.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\bin\Debug\net7.0\Example 5.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\bin\Debug\net7.0\Example 5.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\bin\Debug\net7.0\Example 5.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\bin\Debug\net7.0\Example 5.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\refint\Example 5.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\Example 5.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 1\Example 5\obj\Debug\net7.0\ref\Example 5.dll
